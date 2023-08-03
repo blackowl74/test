@@ -11,5 +11,6 @@
 * git log 
 * git checkout
 * git checkout branch_name
+* git diff
 
 
