@@ -12,5 +12,6 @@
 * git checkout
 * git checkout branch_name
 * git diff
+* git checkout 4 hash-nums
 
 
