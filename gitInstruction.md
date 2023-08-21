@@ -15,3 +15,10 @@
 * git checkout 4 hash-nums
 
 
+### Команды для работы с ветками
+
+* git branch
+
+
+
+
