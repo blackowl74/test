@@ -18,7 +18,7 @@
 ### Команды для работы с ветками
 
 * git branch
-
-
+* git checkout branch-name
+* git checkout commit-hash-name
 
 
