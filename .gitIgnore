@@ -1,6 +1,6 @@
 image.png
 *.jpg
 *.png
-*/.png
-*/.jpeg
-*/.jpg
+/.*png
+/*.jpeg
+/*.jpg
