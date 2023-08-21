@@ -21,5 +21,7 @@
 
 ![image](img/image.png)
 
+* git checkout branch-name
+* git checkout commit-hash-name
 
 
